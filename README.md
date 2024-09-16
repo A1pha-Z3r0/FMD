@@ -34,10 +34,10 @@ To set up this project on your local machine, follow these steps:
    cd FMD
    ```
 2. **Set up a virtual environment (optional but recommended)**
-  ```bash
+   ```bash
    python3.10 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-  ```
+   ```
 4. **Install the dependencies**
    ```bash
    pip install -r requirements.txt
