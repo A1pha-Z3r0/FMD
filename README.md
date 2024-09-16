@@ -47,6 +47,10 @@ To set up this project on your local machine, follow these steps:
    ```bash
    bash download_models.sh
    ```
+   **Note:** If the bash script doesn't download the models, you can manually download them using the link below and place them in the appropriate directory:
+   **Link:**https://drive.google.com/drive/folders/19BDQ2pEjPD47Y6qnieiKriKlTA_kTRbf?usp=drive_link
+8. **Download Model Files**
+   After downloading, ensure that you adjust the model file paths in the app.py files as necessary to match your directory structure.
 
 ## **Usage**
 To use the web application:
