@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#uploadInput {
+    margin-bottom: 20px;
+}
+
+#uploadButton {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#uploadButton:hover {
+    background-color: #45a049;
+}
+
+#predictionResult {
+    margin-top: 20px;
+    font-weight: bold;
+}
