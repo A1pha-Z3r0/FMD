@@ -71,3 +71,10 @@ To use the web application:
 3. Combined Models: Utilizes both VGG19 and Vision Transformer (ViT) models for enhanced accuracy.
 4. Easy Setup: Built using FastAPI for a simple and quick setup process.
 5. User-Friendly Interface: Easy-to-use web interface for uploading images and viewing results.
+
+
+## **TESTING**
+asdkjhaksdu
+adksfhaksfd
+kdsajfhksjdfh
+kdjsfhkasf
